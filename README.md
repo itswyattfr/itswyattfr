@@ -1,7 +1,7 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://ghrmt.vercel.app?font=Bungee&size=40&pause=1000&color=2600F7&center=true&vCenter=true&random=false&width=435&lines=Wyatt+Gowing" alt="Typing SVG" /></a> </h1>
 
 ## 💫 About Me:
-🔭 I’m currently working on Savely, an application designed for users to easily modify save files across multiple games. With support for automatic cloud backup.<br>👯 I’m collaborating on YimMenuV2<br>🌱 I’m currently learning C++/C#<br>💬 Ask me about math
+🔭 I’m currently working on [Savely](https://github.com/itswyattfr/Savely), an application designed for users to easily modify save files across multiple games. With support for automatic cloud backup.<br>👯 I’m collaborating on YimMenuV2<br>🌱 I’m currently learning C++/C#<br>💬 Ask me about math
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WsgaJYnW) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wyattfr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itswyattfr@gmail.com) 
